@@ -3,7 +3,7 @@
 There's a simpler (never said easier) way to determine if the Norne Corporation is 
 mostly engineers, or more mostly managers.
 
-If it is mostly engineers, who are always assumed to know the truth, then by simple probability,
+If it is mostly engineers, who are always assumed to know and tell the truth, then by simple probability,
 more than half of the organization actually knows the truth. Wherein, by law of deduction - anyone
 will be able to truthfully (no pun intended) figure out what was deleted, or covered up, over time.
 Basically, if the engineers know the truth - they'll tell the truth. But if they don't know the truth,

@@ -1,3 +1,6 @@
+Could the puzzle be restated so instead of there's i person who knows j. Just interrogate i person. If their title is not matching up to who they are,
+managers are at fault.
+
 3. Is there a way to classify everybody else in fewer questions? Yes.
 
 There's a simpler (never said easier) way to determine if the Norne Corporation is 

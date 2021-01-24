@@ -11,9 +11,9 @@ they really don't know.
 
 If it is mostly managers, who are to be ALWAYS assumed to lie (until they tell the truth), then by simple probability,
 more than half of the organization actually knows the truth, and is willfully withholding it. Where, by law of induction -
-anyone will be to truthfully (no pun intended) figure out what was delete or covered up, over time. On the simple basis, of constant
-interrogation until the truth has been determined. Otherwise, nothing will be found - also it's illegal to delete evidence of
-a crime, or intent to commit a crime.
+anyone will be to truthfully (no pun intended) figure out what was delete or covered up, over time. On the simple basis of constant
+interrogation until the truth has been determined by a trusted-party. Otherwise, nothing will be found - also it's illegal to delete evidence of
+a crime, or intent to commit a crime. Therefore, anything that was deleted is a really, REALLY big no-no in the eyes of the law.
 
 There's also the chance that there's managers with engineering experience - that they've disclosed or haven't disclosed. But more
 likely than not, it smells like there's something fishy at the tippy top. And they're going to go to any lengths to not get
